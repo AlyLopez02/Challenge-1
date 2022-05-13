@@ -24,6 +24,11 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-size: 20px;
+    margin-bottom: auto;
+}
+
 p {
     font-size: 16px;
 }
@@ -87,7 +92,7 @@ figure {
     color: #ffffff;
 }
 
-#search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
+#content img {
     max-height: 200px;
 }
 
@@ -112,15 +117,15 @@ figure {
     background-color: #2589bd;
 }
 
-#benefit-lead,#benefit-brand,#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-lead img, #benefit-brand img, #benefit-cost img {
+#benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+#benefit-lead,#benefit-brand,#benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 /* Main specific selectors end */
 
@@ -130,10 +135,5 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-    margin-bottom: auto;
 }
 /* Footer specific selectors end */
