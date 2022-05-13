@@ -19,7 +19,7 @@ I changed many things within the CSS file for multiple reasons. I:
     - Put some selectors together so that they would all be affected at the same time
 - Edited some code to make sure that the deployed website would look the same as the example
     - Added `display: inline;` to the `#seo` selector so that my use of the section semantic element in the HTML code would not mess up the first header
-- Changed some class selectors to become id selectors since I switched some of those attributes in the HTML file.
+- Changed a class selector to become id selector since I switched the attribute in the HTML file.
 - Changed some id selectors to simply be element selectors because it made more sense
     - Made what became `footer h4` to simply `h4` since there was no other `h4`
 - Etc.
@@ -33,6 +33,9 @@ I feel the need to explain some things about my repository and code so I have do
 After hearing these problems, please do not hesitate to inform or advise me on them or anything else in my code that could be done better. I truly appreciate the help!
 
 Additionally, if I did not write this description in the way desired, please inform me of that as well!
+
+## Update
+I realized I misunderstood what class attributes affected, so I fixed it before I could forget. I apologize for the inconvenience.
 
 ## Screenshot:
 Here is a screenshot of the finished product:

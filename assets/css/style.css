@@ -77,13 +77,14 @@ figure {
     background-position: center;
 }
 
-#content {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-#search-engine-optimization, #online-reputation-management, #social-media-marketing {
+.search-engine-optimization, .online-reputation-management,
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,7 +93,7 @@ figure {
     color: #ffffff;
 }
 
-#content img {
+.content img {
     max-height: 200px;
 }
 
@@ -106,7 +107,7 @@ figure {
     margin-left: 25px;
 }
 
-#benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -117,13 +118,13 @@ figure {
     background-color: #2589bd;
 }
 
-#benefits img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-#benefit-lead,#benefit-brand,#benefit-cost {
+.benefit-lead,.benefit-brand,.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
