@@ -46,4 +46,4 @@ Here is a screenshot of the finished product:
 
 Here is the link to the deployed application via GitHub:
 
-<a href="https://alylopez02.github.io/Refractor-SEO-HW/">https://alylopez02.github.io/Refractor-SEO-HW/</a>
+<a href="https://alylopez02.github.io/Refactor-SEO-HW/">https://alylopez02.github.io/Refactor-SEO-HW/</a>
